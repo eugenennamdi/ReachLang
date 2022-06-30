@@ -4,8 +4,10 @@
 
 
 ### Terminal Screenshots
+ 
+- **Seller**
+- ![Screenshot (37)](https://user-images.githubusercontent.com/85407620/176734264-2ebba187-3352-4273-afe8-7529728a3abe.png)
 
-> **Buyer**
-- ![Screenshot (36)](https://user-images.githubusercontent.com/85407620/176727455-43554b83-d483-4333-b3a0-83d197bc6e8e.png)
-> **Seller**
-- ![Screenshot (37)](https://user-images.githubusercontent.com/85407620/176727475-229bb88e-097e-41aa-9526-21cfac858a27.png)
+- **Buyer** 
+- ![Screenshot (41)](https://user-images.githubusercontent.com/85407620/176734378-40eafb51-fa67-47eb-a1ed-c7eee29b62df.png)
+
